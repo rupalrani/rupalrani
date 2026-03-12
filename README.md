@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Rupal Rani 👋</h1>
+<h1 align="center">Hi, I'm Rupal Rani 👋</h1>
 
 <h3 align="center">Data Scientist | Business & Finance Analytics | Turning Data into Decisions</h3>
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 🙋‍♀️ About Me
+## About Me
 
 - 🎓 Final year **BS in Analytics & Sustainability Studies** at **Tata Institute of Social Sciences (TISS), Mumbai** *(Expected 2026)*
 - 💼 Former **Data Analyst Intern @ Aajeevika Bureau (India LabourLine)** — cleaned national MIS datasets, built Power BI dashboards & QGIS maps
