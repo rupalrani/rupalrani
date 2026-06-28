@@ -97,6 +97,7 @@
 ## 🤝 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupal-rani-a23b36257)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d9488?style=for-the-badge&logo=github&logoColor=white)](https://rupalrani.github.io)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rupalrani2303@gmail.com)
 
 ---
