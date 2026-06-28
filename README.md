@@ -1,22 +1,19 @@
-<h1 align="center">Hi, I'm Rupal Rani 👋</h1>
+# Hi, I'm Rupal Rani 👋
 
-<h3 align="center">Data Scientist | Business & Finance Analytics | Turning Data into Decisions</h3>
+### Data Analyst · Sustainability & Development Research · Turning Data into Decisions
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=BS+Analytics+%40+TISS+Mumbai+(2026);Business+%26+Finance+Analytics+Enthusiast;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+GIS;Transforming+Raw+Data+into+Real+Decisions;Open+to+Data+Analyst+%7C+Data+Scientist+Roles" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=BS+Analytics+%26+Sustainability+Studies+%40+TISS+(2026);Labour+%7C+Climate+%7C+ESG+%7C+Development+Analytics;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+QGIS;Transforming+Raw+Data+into+Real+Policy+Insights;Seeking+Data+Analyst+%7C+Research+Analyst+Roles)](https://git.io/typing-svg)
 
 ---
 
 ## About Me
 
-- 🎓 Final year **BS in Analytics & Sustainability Studies** at **Tata Institute of Social Sciences (TISS), Mumbai** *(Expected 2026)*
-- 💼 Former **Data Analyst Intern @ Aajeevika Bureau (India LabourLine)** — cleaned national MIS datasets, built Power BI dashboards & QGIS maps
-- 🔭 Currently building end-to-end data science projects in **Business & Finance**
-- 🌱 Skilled in **Python, R, SQL, Power BI, Tableau, ArcGIS/QGIS, SPSS, MATLAB**
-- 🎯 Targeting roles in **Data Analytics / Data Science** (Finance, Business & Social Impact domains)
-- 💡 I love finding patterns in data that drive real-world decisions
-- 📫 Reach me at: **rupalrani2303@gmail.com** | 📞 +91 7654330705
+- 🎓 Final year **BS in Analytics & Sustainability Studies** at **Tata Institute of Social Sciences (TISS), Mumbai** *(2026)* — Reliance Foundation Undergraduate Scholar
+- 💼 **Data Analyst @ Aajeevika Bureau (India LabourLine)** — Cleaned 5-year national MIS datasets, automated ETL workflows, built Power BI dashboards presented to Azim Premji Foundation
+- 🔭 Building an end-to-end analytics portfolio spanning **labour economics, ESG finance, supply chain, and climate risk**
+- 🌱 Skilled in **Python · R · SQL · Power BI · Tableau · QGIS · SPSS**
+- 🎯 Targeting roles in **Data Analytics, Climate Finance & Social Development Research**
+- 📫 **rupalrani2303@gmail.com** | 📞 +91 7654330705
 - 🌍 Based in **Mumbai, Maharashtra**
 
 ---
@@ -25,109 +22,83 @@
 
 **Programming & Analytics**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Visualization & BI**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-</p>
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 **GIS & Research Tools**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=esri&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ATLAS.ti-FF6B35?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-</p>
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![SPSS](https://img.shields.io/badge/SPSS-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
 ## 💼 Experience
 
-### 🏢 Data Analyst Intern — Aajeevika Bureau (India LabourLine) *(Jun 2025 – Aug 2025)*
-- Cleaned and standardized a **5-year national MIS dataset** using Python and Excel
-- Built **automated scripts** for data validation, extraction, and error detection
-- Designed **Power BI dashboards** and **QGIS maps** to identify migration hotspots
-- Developed a **PHP-based MIS dashboard** using MySQL and XAMPP for case tracking
-- Authored analytical reports linking outcomes with **SDGs** and policy recommendations
+### Data Analyst — Aajeevika Bureau (India LabourLine) *(Jun 2025 – Aug 2025)*
+
+- Cleaned and standardized a **5-year national workforce MIS database** (Python + SQL + Excel), correcting 1,200+ inconsistent records
+- Automated ETL and reporting workflows, reducing turnaround time from **days to same-day delivery**
+- Built **5+ Power BI dashboards** tracking workforce operations, KPIs, and complaint resolution across migrant labour corridors
+- Presented analytics findings to leadership and external funders, including **Azim Premji Foundation**
 
 ---
 
-## 📂 Featured Projects
+## 📂 Portfolio Projects
 
-| # | Project | Domain | Key Skills | Status |
-|---|---------|--------|------------|--------|
-| 1 | [📊 Sales Revenue Analysis & Dashboard](./project1-sales-revenue-analysis) | Business | EDA, Pandas, Matplotlib, Seaborn | ✅ Complete |
-| 2 | [💳 Credit Risk Analysis](./project2-credit-risk-analysis) | Finance | EDA, Feature Engineering, Classification | ✅ Complete |
-| 3 | [📈 Stock Market Trend Analysis](./project3-stock-market-analysis) | Finance | Time Series, yfinance, Moving Averages | ✅ Complete |
-| 4 | [🏦 Customer Churn Prediction](./project4-customer-churn-prediction) | Banking | ML Pipeline, Logistic Regression, Random Forest | ✅ Complete |
-| 5 | [💰 Loan Default Prediction](./project5-loan-default-prediction) | Finance | ML, Feature Engineering, Model Comparison | ✅ Complete |
-| 6 | [🚨 Financial Fraud Detection](./project6-fraud-detection) | Finance | Imbalanced Data, SMOTE, XGBoost | ✅ Complete |
+| # | Project | Domain | Tools | Key Result |
+|---|---------|--------|-------|------------|
+| 1 | [📦 Supply Chain Control Tower Dashboard](https://github.com/rupalrani/supply-chain-control-tower) | Logistics & Operations | Python · SQL · Power BI · ML | Late-delivery prediction model **(AUC 0.81)** across 180,519 orders in 5 global markets |
+| 2 | [🎯 Recruitment Channel Effectiveness Analytics](https://github.com/rupalrani/recruitment-channel-analytics) | HR & Workforce Analytics | Python · SQL · ANOVA · Regression | ANOVA + regression pinpointing top sourcing channels by cost-per-hire, yield ratio & quality |
+| 3 | [🌿 ESG Performance Benchmarking Tool](https://github.com/rupalrani/esg-benchmarking-tool) | Sustainable Finance | Python · SQL · Power BI · Sustainalytics | Sector explains **~40% of ESG score variance**; framework aligned to IFRS S1/S2, TCFD & GRI |
+| 4 | [🏛️ Labour Market Intelligence Dashboard](https://github.com/rupalrani/labour-market-intelligence) | Development Economics | Python · SQL · Tableau · Econometrics | Mincer regression + Blinder-Oaxaca decomposition quantifying India's gender wage gap (PLFS data) |
 
-### 🎓 Academic Projects (TISS)
+---
+
+## 🎓 Academic Research (TISS)
 
 | Project | Tools | Description |
 |---------|-------|-------------|
-| 🌾 Crop Yield Prediction | Python, Scikit-learn | ML model using weather & soil data to predict crop yields |
-| 👩‍💼 Women's Labour Force Participation | NFHS, PLFS, R | Regression & clustering to identify workforce barriers |
-| 📉 Earnings Inequality Analysis (PLFS) | Regression Modelling | Wage gap analysis by gender, caste & education |
-| 🗄️ Library Management System | SQL | Relational DB design with indexing & normalization |
+| 🌡️ **Loss & Damage Index — India (2000–2024)** *(Honours Dissertation)* | Python · QGIS · EM-DAT | District-level multi-hazard climate risk index integrating flood, cyclone, heatwave & drought data; Mann–Kendall trend tests + Moran's I spatial analysis |
+| 🏠 **Urban Housing Outcomes Study — Varanasi** | SPSS · Mixed Methods | 50 household surveys + 30 in-depth interviews; SDG-based assessment of Kanshiram Awas Yojana beneficiary outcomes |
+| 🌾 **Women-Led Climate-Resilient Farming — Osmanabad** | Ethnography · Fieldwork | 12-village ethnographic study of women-led agroecological practices and gender dimensions of climate adaptation |
 
 ---
 
 ## 🔬 Field Research
 
-- **Women-Led Climate-Resilient Farming, Osmanabad** — Ethnographic research across 12 villages; analyzed gender roles & sustainability practices
-- **Urban Sustainability & Livelihoods, Kanshiram Awas Yojana** — Surveys, FGDs, and case studies on housing sustainability and social exclusion
+- **Women-Led Climate-Resilient Farming, Osmanabad (2023)** — Ethnographic research across 12 villages; analysed gender roles, rural livelihoods, and SDG-linked sustainability outcomes in Maharashtra
+- **Urban Sustainability & Housing, Varanasi (2024)** — Mixed-methods study on housing and social exclusion under Kanshiram Awas Yojana; 50 household surveys and 30 interviews
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
+![Rupal's GitHub stats](https://github-readme-stats.vercel.app/api?username=rupalrani&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rupalrani&layout=compact&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rupalrani&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🤝 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/rupal-rani-a23b36257" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:rupalrani2303@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://kaggle.com/YOUR_KAGGLE" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupal-rani-a23b36257)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rupalrani2303@gmail.com)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile+Views&color=blue&style=flat"/>
-</p>
-
-<p align="center"><i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i></p>
+*"Without data, you're just another person with an opinion." — W. Edwards Deming*
