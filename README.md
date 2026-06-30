@@ -64,7 +64,7 @@
 | 1 | [📦 Supply Chain Control Tower Dashboard](https://github.com/rupalrani/supply-chain-control-tower) | Logistics & Operations | Python · SQL · Power BI · ML | Late-delivery prediction model **(AUC 0.81)** across 180,519 orders in 5 global markets |
 | 2 | [🎯 Recruitment Channel Effectiveness Analytics](https://github.com/rupalrani/recruitment-channel-analytics) | HR & Workforce Analytics | Python · SQL · ANOVA · Regression | ANOVA + regression pinpointing top sourcing channels by cost-per-hire, yield ratio & quality |
 | 3 | [🌿 ESG Performance Benchmarking Tool](https://github.com/rupalrani/esg-benchmarking-tool) | Sustainable Finance | Python · SQL · Power BI · Sustainalytics | Sector explains **~40% of ESG score variance**; framework aligned to IFRS S1/S2, TCFD & GRI |
-| 4 | [🏛️ Labour Market Intelligence Dashboard](https://github.com/rupalrani/labour-market-intelligence) | Development Economics | Python · SQL · Tableau · Econometrics | Mincer regression + Blinder-Oaxaca decomposition quantifying India's gender wage gap (PLFS data) |
+| 4 | [🏛️ Labour Market Intelligence Dashboard](https://github.com/rupalrani/labour-market-intelligence) | Development Economics | Python · SQL · Power BI · Econometrics | Real PLFS microdata (41,913 workers): 22.5% raw gender wage gap, 99.7% unexplained by Blinder-Oaxaca; 10.3% return to schooling |
 
 ---
 
@@ -103,3 +103,4 @@
 ---
 
 *"Without data, you're just another person with an opinion." — W. Edwards Deming*
+
