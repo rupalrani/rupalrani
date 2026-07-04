@@ -1,4 +1,4 @@
-# Hi, I'm Rupal 👋
+# Hi, I'm Rupal Rani.
 
 **Data Analyst | Climate & Sustainability Researcher | Policy Research**
 
